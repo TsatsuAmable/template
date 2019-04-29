@@ -26,7 +26,7 @@ Ghost writer (Graphic Business column) Celebrating Entrepreneurship by Elikem Nu
 
 Consulted on Speech Writing projects for various C-Suite Execs (2015 - 2018)
 
-Gallery Assistant Manager, Gallery 1957 (Kempinski Hotel)(2017)
+Assistant Gallery Manager, Gallery 1957 (Kempinski Hotel)(2017)
 
 Consultant Reviewer, “Akua, My Story” - soon to be published biography of H.E. Judge Prof. Akua Kuenyehia, former Vice President of the International Criminal Court in the Hague (2017 - Present)
 
