@@ -4,8 +4,8 @@ type: essay
 title: My Other Interests & Activities
 # All dates must be YYYY-MM-DD format!
 labels:
-  - Writing, 
-  - Art
+  - Writing, Personality Profiles, Biographies, Speech Writing
+  - Art Administration, Art Writing
   - Teaching & Facilitation
 ---
 
@@ -24,11 +24,15 @@ https://thesoleadventurer.com/jamestown-beyond-chale-wote-some-things-never-chan
 
 Ghost writer (Graphic Business column) Celebrating Entrepreneurship by Elikem Nutifafa Kuenyehia (2018)
 
+Consulted on Speech Writing projects for various C-Suite Execs (2015 - 2018)
+
 Gallery Assistant Manager, Gallery 1957 (Kempinski Hotel)(2017)
 
 Consultant Reviewer, “Akua, My Story” - soon to be published biography of H.E. Judge Prof. Akua Kuenyehia, former Vice President of the International Criminal Court in the Hague (2017 - Present)
 
 Social Media Content Developer on Petra Trust Social Media Campaigns for Mindfull Creative Agency (2016 & 2017)
+
+Kuenyehia Prize for Contemporary Ghanaian Art 2015 to 2015, Organising member - strategy, tech & social media support; community relations
 
 Executive Assistant to the chairman Oxford and Beaumont Solicitors/ ENS Africa | Ghana(2015)
 
