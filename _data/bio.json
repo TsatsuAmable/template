@@ -92,21 +92,78 @@
       "website": "https://www.rancard.com",
       "startDate": "2019-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Rancard Solutions is a world class technology company with clients in Africa, the Middle East and Europe",
       "highlights": [
-      "Currently building tools (based on Google Sheets API, Facebook Messenger Bot API and proprietary code bases) for inhouse automated report generation to ease the burden on quality assurance and to improve operational efficiency and quality assurance across all inhouse systems. I am also engaged in additional work using LSTM networks to predict and isolate performance issues in the Rendezvous core platform."
+      "Currently building tools (based on Google Sheets API, Facebook Messenger Bot API and proprietary code bases) for inhouse automated report generation to ease the burden on quality assurance and to improve operational efficiency and quality assurance across all inhouse systems. I am also engaged in additional work using LSTM networks to predict and isolate performance issues in the Rendezvous core platform.",
+      "currently engaged in additional work using LSTM networks to predict and isolate performance issues in the Rancard's core platform."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "NilOut LLC",
+      "position": "Contractor",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "endDate": "Present",
+      "summary": "Nilout is a engineering contractor start-up that is currently developing tools to make it a technology service provider to a larger market",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "I am currently building NilOut's first mass market tool for the creative arts industry based on nodejs + postgres + Vuejs. NilOut hopes to roll the product out across Africa.",
+      ]
+    },
+    {
+      "company": "",
+      "position": "Freelance Software Developer",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "I have worked on a variety of projects during this period, from Wordpress websites where I built themes from scratch, to software for running a microsavings business in Ada, the South of Ghana with Microsoft Office Access",
+      "highlights": [
+        "",
+      ]
+    },
+    {
+      "company": "Intruptiv Solutions",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "",
+      "summary": "Intruptive Solutions was a Meltwater Institute of Technology Startup that built an Instagram-esque location-based photo sharing app in 2014",
+      "highlights": [
+        "I developed a dashboard with Java Play framework to enhance reporting on the growth of the platform"
+      ]
+    },
+    {
+      "company": "Ghana Revenue Authority",
+      "position": "Legacy Tax MIS Maintenance Service Provider",
+      "website": "https://gra.gov.gh/",
+      "startDate": "2011",
+      "endDate": "2014",
+      "summary": "GRA is the Government of Ghana's Tax Administration agency.",
+      "highlights": [
+        "I maintained key legacy MIS systems across several offices in the capital for the GRA’s VAT Service during a transition phase to a more robust, nationwide system. Each of the offices run different implementations of a MS Access database, and each had specific needs and use cases that required custom solutions. I would routinely be called in, take the system offline (the network), fix bugs, impliment new solutions and redeploy these systems. These systems held data for all the tax transactions for the Government of Ghana up until the end of 2014." 
+      ]
+    },
+    {
+      "company": "Ghana Revenue Authority",
+      "position": "Legacy Tax MIS Maintenance Service Provider",
+      "website": "https://gra.gov.gh/",
+      "startDate": "2011",
+      "endDate": "2014",
+      "summary": "GRA is the Government of Ghana's Tax Administration agency.",
+      "highlights": [
+        "I maintained key legacy MIS systems across several offices in the capital for the GRA’s VAT Service during a transition phase to a more robust, nationwide system. Each of the offices run different implementations of a MS Access database, and each had specific needs and use cases that required custom solutions. I would routinely be called in, take the system offline (the network), fix bugs, impliment new solutions and redeploy these systems. These systems held data for all the tax transactions for the Government of Ghana up until the end of 2014." 
+      ]
+    },
+    {
+      "company": "College of Basic and Applied Sciences, University of Ghana",
+      "position": "Lead Developer & Systems Administrator",
+      "website": "https://cbas.ug.edu.gh/",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "The College, at the time the Faculty of Science, maintained a computer lab for development and maintenance of software. I was selected by the Computer Science Department to serve myu national service at the College",
+      "highlights": [
+        "I administered and maintained the lab's client server network.",
+        "I developed a student registration web application for the faculty with vb.net (asp.net) over MS SQL Server 2005 Enterprise Database Management Tool.",
+        "I was also responsible for historical data of over 25,000 students that had been captured and stored over the years."
       ]
     }
   ],
@@ -119,34 +176,11 @@
       "endDate": "2019",
       "summary": "The Akuakuenyehia Foundation is a not for profit organisation founded by the children of H.E. Judge Prof. Akua Kuenyehia, formerly of the International Criminal Court to assist financially constrained young women to pursue their educational/academic dreams"
       "highlights": [
-        "Held a writing clinic for 15 pre-university women ",
-        "Was a camp facilitator and coach at the 2018 annual camp - for debate, CV and Personal Pitch clinics",
-        "",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Held a one-day writing clinic for 15 pre-university women",
+        "Was a camp facilitator for a CV clinic, personal pitch and coach for a camp debate team."
       ]
     }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request",
