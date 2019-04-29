@@ -5,7 +5,7 @@ title: My Other Interests & Activities
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-29
 labels:
-  - Writing
+  - Writing, 
   - Art
   - Teaching & Facilitation
 ---
@@ -28,4 +28,5 @@ Consultant, “Akua, My Story” - soon to be published biography of H.E. Judge 
 
 Social Media Content Developer Petra Trust Social Media Campaign (Mindfull Creative Agency) (2016 & 2017)
 
-Executive Assistant to the chairman Oxford and Beaumont Solicitors/ ENS Africa | Ghana, and Private Personal Assistant to Elikem Nutifafa Kuenyehia (2015)
+Executive Assistant to the chairman Oxford and Beaumont Solicitors/ ENS Africa | Ghana(2015)
+
