@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tsatsu Kofi Amable",
-    "label": "Engineer",
+    "label": "Software Developer",
     "picture": "https://tsatsuamable.github.io/images/github.jpg",
     "email": "tsatsu.amable@gmail.com",
     "phone": "+233-244-886-941",
@@ -28,7 +28,7 @@
       {
         "network": "twitter",
         "username": "@tsatsuamable",
-        "url": "http://twitter.com/tsatsuamable"
+        "url": "https://twitter.com/tsatsuamable"
       },
     ]
   },
@@ -62,7 +62,7 @@
         "Javascript",
         "PHP",
         "Express.js/Node.js",
-        "HTML/CSS"
+        "HTML/CSS/ Bootstrap/Bulma"
       ]
     },
     {
@@ -94,8 +94,7 @@
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-"Currently building tools  (based on Google Sheets API, Facebook Messenger Bot API and proprietary code bases) for inhouse automated report generation to ease the burden on quality assurance and to improve operational efficiency and quality assurance across all inhouse systems.
-I am also engaged in additional work using LSTM networks to predict and isolate performance issues in the Rendezvous core platform.
+      "Currently building tools (based on Google Sheets API, Facebook Messenger Bot API and proprietary code bases) for inhouse automated report generation to ease the burden on quality assurance and to improve operational efficiency and quality assurance across all inhouse systems. I am also engaged in additional work using LSTM networks to predict and isolate performance issues in the Rendezvous core platform."
       ]
     },
     {
@@ -113,14 +112,16 @@ I am also engaged in additional work using LSTM networks to predict and isolate 
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Akua Kuenyeia Foundation",
+      "website": "http://akuakuenyehiafoundation.org/",
+      "position": "Trainer/ Facilitator",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "The Akuakuenyehia Foundation is a not for profit organisation founded by the children of H.E. Judge Prof. Akua Kuenyehia, formerly of the International Criminal Court to assist financially constrained young women to pursue their educational/academic dreams"
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Held a writing clinic for 15 pre-university women ",
+        "Was a camp facilitator and coach at the 2018 annual camp - for debate, CV and Personal Pitch clinics",
+        "",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
