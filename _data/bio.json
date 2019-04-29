@@ -8,7 +8,7 @@
     "website": "https://tsatsuamable.github.io",
     "summary": "I am an engineering professional with a sound understanding of relational database technologies and tools in the microsoft office ecosystem. I have experience working with Relational Database Technologies and tools including Microsoft SQL Server, Python, Php, Java, Microsoft Office Access, among others. I have also worked with other technologies, ranging from cloud (Amazon Web Services) to geospatial information systems (GIS), systems administration (Linux & Windows) and content management systems.",
     "location": {
-      "address": "#7 Nana Sika Street, Off Zibra Street, Pokuase Amanfrom GW1064",
+      "address": "#7 Nana Sika Street, Off Zibra Street, Pokuase Amanfrom",
       "postalCode": "GW1064",
       "city": "Accra",
       "countryCode": "GH",
@@ -166,7 +166,7 @@
         "I was also responsible for historical data of over 25,000 students that had been captured and stored over the years."
       ]
     }
-  ],
+  ]
   "volunteer": [
     {
       "organization": "Akua Kuenyeia Foundation",
