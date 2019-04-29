@@ -1,40 +1,36 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Tsatsu Kofi Amable",
+    "label": "Engineer",
+    "picture": "https://techfolios.github.io/images/github.jpg",
+    "email": "tsatsu.amable@gmail.com",
+    "phone": "+233-244-886-941",
+    "website": "https://tsatsuamable.github.io",
+    "summary": "I am an engineering professional who has a sound understanding of relational database technologies and tools in the microsoft office ecosystem. I have experience working with Relational Database Technologies and tools in the Microsoft office ecosystem including MS Access, SQL Server, Python, Php, Java, among others. I have also worked with other technologies, ranging from cloud (Amazon Web Services) to geospatial information systems (GIS), systems administration (Linux & Windows) and content management systems. I enjoy expanding my knowledge base and have picked up skills in training and facilitation, administration and leadership. I have had the opportunity to facilitate the training of young minds and have immensely enjoyed being able to share the knowledge i have with others. My thirst for knowledge means I quickly jump on board when faced with new information I previously was unacquainted with and am eager to explore new trajectories in IT. My career goal is to be part of a team that values continuous growth and training as it presents new opportunities and experiences for growth.
+",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "#7 Nana Sika Street, Off Zibra Street, Pokuase Amanfrom GW1064",
+      "postalCode": "GW1064",
+      "city": "Accra",
+      "countryCode": "GH",
+      "region": "Greater Accra"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tsatsuamable",
+        "url": "http://github.com/tsatsuamable"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/tsatsu-kofi-amable/"
       },
       {
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -65,8 +61,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
+        "Express.js/Node.js"
       ]
     },
     {
@@ -75,22 +71,18 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Ghana - Accra",
+      "area": "Computer Science and Psychology",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "startDate": "2007",
+      "endDate": "2011",
     }
   ],
   "work": [
@@ -153,12 +145,6 @@
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
