@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: My Other Interests & Activities
 # All dates must be YYYY-MM-DD format!
-date: 2019-04-29
 labels:
   - Writing, 
   - Art
