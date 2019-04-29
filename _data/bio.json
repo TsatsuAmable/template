@@ -22,13 +22,13 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "tsatsu-kofi-amable",
         "url": "https://www.linkedin.com/in/tsatsu-kofi-amable/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "@tsatsuamable",
+        "url": "http://twitter.com/tsatsuamable"
       },
     ]
   },
@@ -56,22 +56,23 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Java",
+        "Python",
         "Javascript",
         "PHP",
-        "Express.js/Node.js"
+        "Express.js/Node.js",
+        "HTML/CSS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Windows",
-        "Git/GitHub",
+        "MacOS",
+        "Git/Bitbucket/GitHub"
       ]
     }
   ],
@@ -86,15 +87,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Rancard Solutions",
+      "position": "Intern",
+      "website": "https://www.rancard.com",
+      "startDate": "2019-03-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+"Currently building tools  (based on Google Sheets API, Facebook Messenger Bot API and proprietary code bases) for inhouse automated report generation to ease the burden on quality assurance and to improve operational efficiency and quality assurance across all inhouse systems.
+I am also engaged in additional work using LSTM networks to predict and isolate performance issues in the Rendezvous core platform.
       ]
     },
     {
