@@ -25,11 +25,6 @@
         "username": "tsatsu-kofi-amable",
         "url": "https://www.linkedin.com/in/tsatsu-kofi-amable/"
       },
-      {
-        "network": "twitter",
-        "username": "tsatsuamable",
-        "url": "https://twitter.com/tsatsuamable"
-      },
     ]
   },
   "interests": [
@@ -80,7 +75,7 @@
     {
       "institution": "University of Ghana - Accra",
       "area": "Computer Science and Psychology",
-      "studyType": "B.S.",
+      "studyType": "B.S. *Not completed",
       "startDate": "2007",
       "endDate": "2011"
     }
