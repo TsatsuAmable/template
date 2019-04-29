@@ -13,7 +13,9 @@ labels:
 Current writing interest: My first novel: a work of Historical Fiction set in colonial era Ghana and the UK.
  
  
-Facilitator: workshop for Mastercard Scholarship winners on communication  (with special emphasis on written communication) under the auspices of the Akua Kuenyehia Foundation, an educational not-for-profit for girls.
+Facilitator: workshop for Mastercard Scholarship winners on communication  (with special emphasis on written communication) under the auspices of the Akua Kuenyehia Foundation, an educational not-for-profit for girls.(2018 & 2019 scholars)
+
+Writing, Communication facilitator & Debate Team Coach: Akuakuenyehia Annual Camp for AKF Scholarship holders (2018)
 
 Consultant Reviewer on the soon to be published  “Champagne Taste, Beer Budget” ( On the entrepreneurial journey of Elikem N. Kuenyehia)		(2019)
 
