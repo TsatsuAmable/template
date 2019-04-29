@@ -6,7 +6,7 @@
     "email": "tsatsu.amable@gmail.com",
     "phone": "+233-244-886-941",
     "website": "https://tsatsuamable.github.io",
-    "summary": "I am an engineering professional who has a sound understanding of relational database technologies and tools in the microsoft office ecosystem. I have experience working with Relational Database Technologies and tools including Microsoft SQL Server, Python, Php, Java, Microsoft Office Access, among others. I have also worked with other technologies, ranging from cloud (Amazon Web Services) to geospatial information systems (GIS), systems administration (Linux & Windows) and content management systems.",
+    "summary": "I am an engineering professional with a sound understanding of relational database technologies and tools in the microsoft office ecosystem. I have experience working with Relational Database Technologies and tools including Microsoft SQL Server, Python, Php, Java, Microsoft Office Access, among others. I have also worked with other technologies, ranging from cloud (Amazon Web Services) to geospatial information systems (GIS), systems administration (Linux & Windows) and content management systems.",
     "location": {
       "address": "#7 Nana Sika Street, Off Zibra Street, Pokuase Amanfrom GW1064",
       "postalCode": "GW1064",
@@ -27,7 +27,7 @@
       },
       {
         "network": "twitter",
-        "username": "@tsatsuamable",
+        "username": "tsatsuamable",
         "url": "https://twitter.com/tsatsuamable"
       },
     ]
@@ -82,7 +82,7 @@
       "area": "Computer Science and Psychology",
       "studyType": "B.S.",
       "startDate": "2007",
-      "endDate": "2011",
+      "endDate": "2011"
     }
   ],
   "work": [
