@@ -143,14 +143,15 @@
       ]
     },
     {
-      "company": "Ghana Revenue Authority",
-      "position": "Legacy Tax MIS Maintenance Service Provider",
-      "website": "https://gra.gov.gh/",
-      "startDate": "2011",
-      "endDate": "2014",
-      "summary": "GRA is the Government of Ghana's Tax Administration agency.",
+      "company": "Department of Marine and Fisheries Sciences",
+      "position": "Software Developer",
+      "website": "https://www.ug.edu.gh/marine-fisheries/about/welcome",
+      "startDate": "2012",
+      "endDate": "2012",
+      "summary": "The Department was the local partner for the iCODE-MDA Project (involved facilitators from the US Navy's SPAWAR) to strengthen the capacities of various countries to use GIS tools and techniques, and to develop some more techniques to enhance remote sensing and security/territorial soverignty objectives",
       "highlights": [
-        "I maintained key legacy MIS systems across several offices in the capital for the GRA’s VAT Service during a transition phase to a more robust, nationwide system. Each of the offices run different implementations of a MS Access database, and each had specific needs and use cases that required custom solutions. I would routinely be called in, take the system offline (the network), fix bugs, impliment new solutions and redeploy these systems. These systems held data for all the tax transactions for the Government of Ghana up until the end of 2014." 
+        "I was introduced to GIS, remote sensing, SAR image processing using statistical tools and opensource libraries.",
+        "",
       ]
     },
     {
