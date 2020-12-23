@@ -9,7 +9,7 @@
     "summary": "Neo4j and Java",
     "location": {
       "address": "#7 Nana Sika Street, Off Zibra Street, Pokuase Amanfrom",
-      "postalCode": "GW1064",
+      "postalCode": "GW0164",
       "city": "Accra",
       "countryCode": "GH",
       "region": "Greater Accra"
@@ -84,22 +84,11 @@
       "company": "Rancard Solutions",
       "position": "Software Analyst",
       "website": "https://www.rancard.com",
-      "startDate": "2019-03-01",
+      "startDate": "2019-04-01",
       "endDate": "Present",
       "summary": "Rancard Solutions is a world class technology company with clients in Africa, the Middle East and Europe",
       "highlights": [
       "Currently extending the proprietary Rendezvous SDK with a Neo4j backend, based on the Rancard patented Social Molecules."
-      ]
-    },
-    {
-      "company": "NilOut LLC",
-      "position": "Contractor",
-      "website": "",
-      "startDate": "2019-02-01",
-      "endDate": "Present",
-      "summary": "Nilout is a engineering contractor start-up that is currently developing tools to make it a technology service provider to a larger market",
-      "highlights": [
-        "I am currently building NilOut's first mass market tool for the creative arts industry based on nodejs + postgres + Vuejs. NilOut hopes to roll the product out across Africa.",
       ]
     },
     {
